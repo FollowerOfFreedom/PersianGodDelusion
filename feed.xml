@@ -19,8 +19,9 @@
     <itunes:author>FollowerOfFreedom</itunes:author>
     <itunes:owner>
       <itunes:name>FollowerOfFreedom</itunes:name>
+      <itunes:email>lengthy_leptons0e@icloud.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
@@ -38,8 +39,8 @@
       <podcast:season>1</podcast:season>
       <itunes:episode>1</itunes:episode>
       <podcast:episode>1</podcast:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <pubDate>Thu, 26 Mar 2024 16:29:26 GMT</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 26 Mar 2024 16:29:26 GMT</pubDate>
       <itunes:image href="https://raw.githubusercontent.com/FollowerOfFreedom/PersianGodDelusion/main/covers/cover1.jpeg"/>
     </item>
     <item>
@@ -55,7 +56,7 @@
       <itunes:episode>1</itunes:episode>
       <podcast:episode>1</podcast:episode>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Thu, 27 Mar 2024 16:29:26 GMT</pubDate>
+      <pubDate>Wed, 27 Mar 2024 16:29:26 GMT</pubDate>
       <itunes:image href="https://raw.githubusercontent.com/FollowerOfFreedom/PersianGodDelusion/main/covers/cover2.jpeg"/>
     </item>
     <item>
